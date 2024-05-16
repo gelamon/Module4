@@ -10,7 +10,7 @@ This project contains a Solidity smart contract for a token called DegenGamingTo
 
 ### Installing
 
-Clone the repository:
+Clone the repository: <br>
 https://github.com/gelamon/Module4.git
 
 ### Executing program
